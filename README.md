@@ -4,8 +4,8 @@ The aim of this project is to take a csv containing IMDB data and transform it i
 
 ## Tasks
 CSV - extraction and review
-1. All records that do not have a full data set must be excluded and NOT transferred 
-1.1 All records that do not have a full data set should be logged to a log file or text file for review
+1. All records that do not have a full data set must be excluded and NOT transferred
+   1. All records that do not have a full data set should be logged to a log file or text file for review
  
 JSON - Transformation and format
 1. All movies should have a unique numeric ID
